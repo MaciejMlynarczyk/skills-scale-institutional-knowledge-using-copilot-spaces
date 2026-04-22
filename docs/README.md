@@ -18,3 +18,7 @@ Quality and release readiness are first-class expectations. OctoAcme emphasizes 
 - [Release & deployment](./octoacme-release-and-deployment.md)
 - [Retrospective & continuous improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & personas](./octoacme-roles-and-personas.md)
+
+## Reusable templates & checklists
+
+- [Risk register template](./octoacme-risk-register-template.md)

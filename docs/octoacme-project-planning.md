@@ -33,6 +33,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Risk & Dependency Management
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
+- Start from the reusable [Risk Register Template](./octoacme-risk-register-template.md) and keep it updated in weekly delivery syncs
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
