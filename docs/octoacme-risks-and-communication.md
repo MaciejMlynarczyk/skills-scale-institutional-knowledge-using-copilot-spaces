@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+Use the reusable template: [OctoAcme Risk Register Template](./octoacme-risk-register-template.md).
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
